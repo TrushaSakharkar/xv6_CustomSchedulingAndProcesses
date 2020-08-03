@@ -1,0 +1,9 @@
+Important:
+
+Files to modify for making a fuc sys call:
+1. syscall.h
+2. syscall.c
+3. sysproc.c
+4. usys.S
+5. user.h
+6. defs.h

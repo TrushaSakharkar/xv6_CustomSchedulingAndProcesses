@@ -1,0 +1,11 @@
+On running benchmarks the following results were seen:
+
+MLFQ performs best
+PBS also performs pretty good 
+RR performs not that great
+FCFS with non premption performs poorly.
+
+
+For the MLFQ question:
+
+A process may come again and again in to the end of queue and would first go up the queue and then come down again, hence may run to never completion.
