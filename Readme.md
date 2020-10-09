@@ -1,7 +1,7 @@
 # xv6 Custom Scheduling and Processes.
 
 To run this you need to install qemu first.
-After getting it installed:
+After getting it installed do the following:
 ```
 make
 make qemu-nox
